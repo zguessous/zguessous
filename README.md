@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zineb Guessous
 - 🎓 I hold a B.Sc in computer science
-- 👀 I’m interested in data analysis and software/web development
+- 👀 I’m interested in data analysis, web dev, and UX design
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: zineb.gues@gmail.com
 
