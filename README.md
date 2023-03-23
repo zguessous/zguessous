@@ -1,17 +1,19 @@
 # 👋 Hey there !
 ### 👩🏻‍💻 I'm Zineb, an aspiring Software Engineer
-Feel free to connect or drop a note → <a href="https://www.linkedin.com/in/zineb-guessous/">
-  <img alt="Zineb's LinkedIN" width="14px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+Feel free to connect or drop a note →
+<a href="https://www.linkedin.com/in/zineb-guessous/">
+  <img alt="Zineb's LinkedIn" width="16px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
 </a>
 
 ## Skills
-### Data: 
-SQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-### Web Dev: 
-HTML <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-CSS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+#### Data: 
+SQL <img height="16" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" /> -
+Python <img height="16" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+#### Web Dev: 
+HTML <img height="16" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" /> -
+CSS <img height="16" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" /> -
+Javascript <img height="16" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+
 
 ## Backstory
 🎓 Computer Science → 📊 Data Analysis → 💻 Software Engineering *(..loading)*
