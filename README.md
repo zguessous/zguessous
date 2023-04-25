@@ -1,5 +1,6 @@
 # 👋 Hey there !
-### 👩🏻‍💻 I'm Zineb, an aspiring Software Engineer
+### 👩🏻‍💻 I'm Zineb
+Currently a Data Analyst, I am considering transitioning into Software/Data Engineering.
 Feel free to connect or drop a note →
 <a href="https://www.linkedin.com/in/zineb-guessous/">
   <img alt="Zineb's LinkedIn" width="16px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
