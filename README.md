@@ -16,8 +16,8 @@ CSS <img height="16" src="https://cdn-icons-png.flaticon.com/512/888/888847.png"
 Javascript <img height="16" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 
 
-## Backstory
-🎓 Computer Science → 📊 Data Analysis → 💻 Software Engineering *(..loading)*
+## Education
+🎓 Bachelor of Science in Computer Science
 
 <!---
 zguessous/zguessous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
